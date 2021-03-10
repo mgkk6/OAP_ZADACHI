@@ -4,3 +4,6 @@
 [submodule "Абрамов_Миша"]
 	path = Абрамов_Миша
 	url = https://github.com/God-Emperor-of-Mankind/ImperiumOfMankind
+[submodule "Барихади_Миша"]
+	path = Барихади_Миша
+	url = https://github.com/BarMih/PythonProjects
